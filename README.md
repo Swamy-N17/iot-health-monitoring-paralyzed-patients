@@ -48,3 +48,6 @@ using ESP32, Firebase, and FlutterFlow.
 ✅ Hardware Complete
 ✅ Firebase Integration Complete  
 ✅ Mobile App Complete
+
+## 📄 Project Results
+[View Hardware & App Results](./IoT_Project_Results.pdf)
