@@ -1,0 +1,14 @@
+{
+  "Body": {
+    "Condition": "",
+    "HeartRate": "",
+    "Sp02": "",
+    "Temperature": ""
+  },
+  "FlexSensors": {
+    "Flex1": "",
+    "Flex2": "",
+    "Flex3": "",
+    "Flex4": ""
+  }
+}
