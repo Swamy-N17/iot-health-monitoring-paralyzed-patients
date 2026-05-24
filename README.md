@@ -26,18 +26,23 @@ using ESP32, Firebase, and FlutterFlow.
 - **Cloud:** Google Firebase
 
 ## 📊 Firebase Data Structure
-## 📊 Firebase Data Structure
 
-Body/
-├── Condition: ""
-├── HeartRate: ""
-├── Sp02: ""
-└── Temperature: ""
-FlexSensors/
-├── Flex1: ""
-├── Flex2: ""
-├── Flex3: ""
-└── Flex4: ""
+```json
+{
+  "Body": {
+    "Condition": "",
+    "HeartRate": "",
+    "Sp02": "",
+    "Temperature": ""
+  },
+  "FlexSensors": {
+    "Flex1": "",
+    "Flex2": "",
+    "Flex3": "",
+    "Flex4": ""
+  }
+}
+```
 
 ## 📌 Status
 ✅ Hardware Complete
