@@ -8,12 +8,12 @@
 #include <Adafruit_SSD1306.h>
 
 // ------------------ Wi-Fi Credentials ------------------
-#define WIFI_SSID "Redmi11T"
-#define WIFI_PASSWORD "99887766"
+#define WIFI_SSID "Your_Wi-Fi_Network_Name"
+#define WIFI_PASSWORD "Your_Wi-Fi_Password"
 
 // ------------------ Firebase Credentials ------------------
-#define FIREBASE_HOST "health-app-iag6pn-default-rtdb.firebaseio.com/vitals"
-#define FIREBASE_AUTH "AIzaSyAB7oPMen4D8MJ49b6qyfUS4NCOgGfyF4o"
+#define FIREBASE_HOST "YOUR_FIREBASE_HOST_HERE"
+#define FIREBASE_AUTH "YOUR_FIREBASE_AUTH_HERE"
 
 // ------------------ OLED Setup ------------------
 #define SCREEN_WIDTH 128
